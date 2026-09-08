@@ -9,9 +9,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-### 📊 GitHub Stats
-![Statistik GitHub Grezee](https://github-readme-stats.vercel.app/api?username=Grezee&show_icons=true&theme=dark)## Hi there 👋
 
 <!--
 **Grezee/Grezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

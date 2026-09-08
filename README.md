@@ -1,7 +1,7 @@
-# Halo, Saya Aryoga 👋
+# Yoo, I am Aryy 👋
 
 - 🎓 Mahasiswa **Bisnis Digital**
-- 💻 Sedang mendalami **HTML, CSS, dan Python**
+- 💻 Sedang Belajar **HTML, CSS, dan Python**
 - 🛠️ Tools utama: VS Code, Git, Canva
 
 ### 🚀 Tech Stack

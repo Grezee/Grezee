@@ -1,4 +1,4 @@
-# Yoo, I am Grezee 👋
+# I am Grezee 👋
 
 - 🎓 Mahasiswa **Bisnis Digital**
 - 💻 Sedang Belajar **HTML, CSS, dan Python**
